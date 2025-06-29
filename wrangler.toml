@@ -1,0 +1,7 @@
+name = "remix202507050418plus"
+type = "javascript"
+compatibility_date = "2025-06-29"
+main = "index.ts"
+
+[site]
+bucket = "./dist"
